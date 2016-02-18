@@ -2,6 +2,6 @@ class ContactsController < ApplicationController
     def new
     end
     
-    def create_table
+    def create
     end
 end
